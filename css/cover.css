@@ -267,4 +267,7 @@ body {
     height: auto;
     float: left;
     }
+    body{
+    background-size: cover;      
+    }
 }
