@@ -15,6 +15,9 @@ var translation = {
     }
 }
 
+let cvFr="doc/CV_Prince_Youlou_Mars_2019Fr.pdf"
+let cvEn="doc/CV_Prince_Youlou_Mars_2019En.pdf"
+
 function translate(lang) {
     if (lang == "en") {
         $.each( translation.en, function(key, value) {
@@ -43,6 +46,9 @@ translate('fr');
 var user_lang = (navigator.language || navigator.userLanguage).split('-')[0];
 if( user_lang == "fr" ) {
     translate('fr');
+    $(".cvDownLoad").attr("href",cvFr);
 } else {
     translate('en');
+
+    $(".cvDownLoad").attr("href",cvEn);
 }
