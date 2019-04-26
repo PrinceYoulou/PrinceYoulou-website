@@ -30,6 +30,16 @@ PrinceYoulou is free to use.
   </a>
 </p>
 
+## Technologies  used to create PrinceYoulou's website?
+
+- HTML5
+- CSS3
+- JavaScript
+- Photoshop for design
+- Illustrator for the logo
+- Bootstrap 4
+- Font Awesome library
+
 ## License
 
 This website source code is licensed under GPL v3, The GNU General Public License (GNU GPL or GPL) is a widely-used free software license, which guarantees end users the freedom to run, study, share and modify the software.The GPL is a copyleft license, which means that derivative work can only be distributed under the same license terms.
