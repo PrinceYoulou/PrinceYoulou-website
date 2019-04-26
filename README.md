@@ -55,9 +55,6 @@ If you like the project please give us a star and follow us on social media: [Fa
 
 <p align="left">For more information please, visit our site at http://princeyoulou.com</p>
 
-<br />
-<br />
-
 <p align="center">
   <a href="http://princeyoulou.com/" target="_blank">
     <img src="http://princeyoulou.com/files/github-footer.png" alt="PrinceYoulou's official website footer">
