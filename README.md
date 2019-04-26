@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://princeyoulou.com/" target="_blank">
-    <img src="http://princeyoulou.com/files/sketchize-github-cover.png">
+    <img src="http://princeyoulou.com/files/princeyoulou-github-cover.png">
   </a>
 </p>
 
