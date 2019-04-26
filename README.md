@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://princeyoulou.com/" target="_blank">
-    <img src="http://princeyoulou.com/files/princeyoulou-github-cover.png">
+    <img src="http://princeyoulou.com/files/princeyoulou-github-cover.png" alt=""PrinceYoulou's official website header>
   </a>
 </p>
 
@@ -14,23 +14,25 @@ It is also very useful for a product manager, developers and even for the stakeh
 
 - You can make you CV downloadable in English and French according to the user’s browser language.
 - You can modify it as you want. This website is made using Bootstrap 4.
-- You can translate this website to any language you want, there’s a JavaScript file to handle translation
-- You can add all your social accounts so people follow you
-- You can modify Open Graph elements has they have been integrated for Twitter and Facebook
+- You can translate this website to any language you want, there’s a JavaScript file to handle translation.
+- You can add all your social accounts so people follow you.
+- You can modify Open Graph elements has they have been integrated for Twitter and Facebook.
 
 ## How can you use PrinceYoulou's website?
 
 This website is relevant to website standard. Just clone the repository and start modifying it to your suited design.
 
-PrinceYoulou is free to use.
+PrinceYoulou's website is free to use.
 
 <p align="center">
   <a href="http://princeyoulou.com/" target="_blank">
-    <img src="http://princeyoulou.com/files/logo-black.png" width="170">
+    <img src="http://princeyoulou.com/files/logo-black.png" width="170" alt="PrinceYoulou's official logo">
   </a>
+  <br>
+  PrinceYoulou's official logo
 </p>
 
-## Technologies  used to create PrinceYoulou's website?
+## Technologies used to create PrinceYoulou's website?
 
 - HTML5
 - CSS3
@@ -58,6 +60,6 @@ If you like the project please give us a star and follow us on social media: [Fa
 
 <p align="center">
   <a href="http://princeyoulou.com/" target="_blank">
-    <img src="http://princeyoulou.com/files/github-footer.png">
+    <img src="http://princeyoulou.com/files/github-footer.png" alt="PrinceYoulou's official website footer">
   </a>
 </p>
