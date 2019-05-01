@@ -10,7 +10,7 @@ var translation = {
       "title"                   : "Prince Youlou : Web developer and designer.",
       "home"                    : "Home",
       "hey"                     : "Hi, I'm Prince Youlou",
-      "me"                      : "A web developer, designer and baby born with intensity. <br> I come from a country called Africa  and a province called Congo 🇨🇬. <br> I strive every day to be a legend and to to be remembered as an icon. I do everything with intensity. <br>",
+      "me"                      : "A web developer, designer and baby born with intensity. <br> I come from a country called Africa  and a province called Congo 🇨🇬. <br> I strive every day to be a legend and to be remembered as an icon. I do everything with intensity. <br>",
       "download"                : "Download my CV",
     }
 }
