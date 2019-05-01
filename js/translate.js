@@ -15,8 +15,8 @@ var translation = {
     }
 }
 
-let cvFr="doc/CV_Prince_Youlou_Mars_2019Fr.pdf"
-let cvEn="doc/CV_Prince_Youlou_Mars_2019En.pdf"
+let cvFr="doc/CV_Prince_Youlou_Mars_2019_Fr.pdf"
+let cvEn="doc/CV_Prince_Youlou_Mars_2019_En.pdf"
 
 function translate(lang) {
     if (lang == "en") {
