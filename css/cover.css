@@ -15,8 +15,8 @@ a:hover {
 .btn-default:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
-  border: 1px solid #fff;
+  /* background-color: #fff;
+  border: 1px solid #fff; */
 }
 
 
@@ -168,6 +168,10 @@ body {
   border-radius: 50%;
   width: 200px;
 }
+.avatar-resume{
+  width: 200px;
+  float: left;
+}
 
 
 /*Change icons size here*/
@@ -268,6 +272,31 @@ body {
     float: left;
     }
     body{
-    background-size: cover;      
+    background-size: cover;
     }
 }
+@media (max-width: 768px) {
+  .logo-mb {
+    margin-bottom: 1.5rem;
+  }
+  .text-left {
+    text-align: center !important;
+  }
+  .avatar-resume{
+    float: initial !important;
+  }
+}
+.test {
+  border: 2px solid red;
+}
+.text-muted {
+    color: #fff !important;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: transparent !important;
+    border: none !important;
+  }
