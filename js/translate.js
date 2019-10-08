@@ -3,14 +3,14 @@ var translation = {
         "title"                   : "Prince Youlou : Un web developpeur et designer.",
         "home"                    : "Accueil",
         "hey"                     : "Salut, je m'appelle Prince Youlou",
-        "me"                      : "Un web developpeur, designer et bébé né avec intensité.<br> Je viens d'un pays appelé Afrique 🌍 et d'une province appelée Congo 🇨🇬.<br> Je m'efforce chaque jour d'être une légende et d'être rappelé comme une icône. Je fais tout avec intensité.<br>",
+        "me"                      : "Je suis un développeur Web et un chef de projet.<br> Je viens d'un pays appelé Afrique 🌍 et d'une province appelée Congo 🇨🇬.<br> Je veux être une légende et être rappelé comme une icône et une inspiration pour les générations futures du monde entier.<br>",
         "download"                : "Télécharger mon CV",
     },
     "en" : {
       "title"                   : "Prince Youlou : Web developer and designer.",
       "home"                    : "Home",
       "hey"                     : "Hi, I'm Prince Youlou",
-      "me"                      : "A web developer, designer and baby born with intensity. <br> I come from a country called Africa  and a province called Congo 🇨🇬. <br> I strive every day to be a legend and to be remembered as an icon. I do everything with intensity. <br>",
+      "me"                      : "I'm a web developer and project manager who has been involved in business and youth empowerment for the last five years.<br> I come from a country called Africa 🌍 and a province called Congo 🇨🇬. <br> I want to be a legend and be remembered as an icon and an inspiration for future generations around the world.",
       "download"                : "Download my CV",
     }
 }
